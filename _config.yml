@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+defaults:
+  - scope:
+      path: "assets/goodies"
+    values:
+      goody: true
